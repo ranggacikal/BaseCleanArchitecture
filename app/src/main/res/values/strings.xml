@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BaseCleanArchitecture</string>
+    <string name="text_nama_item_user">Nama user</string>
+    <string name="text_email_item_user">email user</string>
+    <string name="text_title_login">Login</string>
+    <string name="email_login">Email</string>
+    <string name="password_login">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="item_text_no_handphone">no handphone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_progress_login">Login</string>
+    <string name="message_progress_login">Silahkan Menunggu</string>
+    <string name="empty_string"></string>
+    <string name="title_progress_home">Load Data User</string>
+    <string name="message_progress_home">Mohon Tunggu</string>
+    <string name="title_progress_user_details">Sedang Memuat Detail User</string>
+    <string name="message_progress_user_details">Mohon Tunggu</string>
+    <string name="title_progress_edit_user">Melakukan Edit Data</string>
+    <string name="message_progress_edit_user">Mohon Tunggu</string>
+    <string name="title_dialog_error_edit_user">Gagal Edit Data</string>
+    <string name="message_error_try_again">Coba Lagi</string>
+</resources>
